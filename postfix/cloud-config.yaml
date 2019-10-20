@@ -1,0 +1,6 @@
+packages:
+  - docker.io
+  - docker-compose
+users:
+  groups:
+    - docker
