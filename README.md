@@ -1,4 +1,4 @@
-# postfix-docker-lob
+# postfix-docker-lab
 
 Experimental repository to deploy Postfix by docker-compose.
 
