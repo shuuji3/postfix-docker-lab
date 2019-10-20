@@ -9,3 +9,7 @@ Experimental repository to deploy Postfix by docker-compose.
 ## postfixadmin/
 
 `docker-compose.yaml` is taken from [postfixadmin/docker](https://github.com/postfixadmin/docker).
+
+## rainloop/
+
+`docker-compose.yaml` is taken from [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail).
